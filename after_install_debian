@@ -1,0 +1,2 @@
+apt update
+apt install -y vim mpv locales-all sudo htop zsh ufw trojan dnsutils net-tools curl wget git
